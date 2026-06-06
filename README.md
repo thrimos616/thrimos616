@@ -54,4 +54,4 @@ When I'm not studying algorithmic complexity or building websites, you'll probab
 
 
 ---
-*⚡ "He who defends everything, defends nothing." — Frederick II of Prussia. (Applying military strategy to software engineering: absolute focus, minimal overhead, maximum performance).*
+*⚡ "He who defends everything, defends nothing." — Frederick II of Prussia.*
