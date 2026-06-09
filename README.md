@@ -15,8 +15,7 @@
 - [Tech Stack & Tools](#️-tech-stack--tools)
 - [Featured Projects & Demos](#-featured-projects--demos)
 - [Beyond the Code](#-beyond-the-code)
-- [Contact & How to Hire](#-contact--how-to-hire)
-- [Contributing & License](#-contributing--license)
+
 
 ---
 
