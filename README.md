@@ -38,7 +38,7 @@ Here are a few standout projects showcasing my work. Click the links to see the 
 
 ## Work in progress
 
-*   **[Institutional Website](#)**: A fast, multi-section static site built with **Astro and React**. Features Google Maps integration and a highly optimized responsive design.
+*   **[Institutional Website](#)**: A fast, multi-section static site built with **Astro and React**. Features Google Maps integration and a highly optimized responsive design. [Live preview:https://centro-pinturerias-e-commerce-stati.vercel.app/]
 
 
 ## 👾 Beyond the Code
